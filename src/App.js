@@ -1,4 +1,4 @@
-import Copyright from './components/Copyright'
+import Copyright from './Copyright'
 
 function App() {
   return (
